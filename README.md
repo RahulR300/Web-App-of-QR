@@ -1,5 +1,12 @@
 # Getting Started with Creating React Web App for QR-Based Exit Management System
 
+# Firstly download & extract the below files:
+
+1 [node-v20.12.1-x64.zip](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/files/15332581/node-v20.12.1-x64.zip)
+
+2 [nvm-setup.zip](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/files/15332576/nvm-setup.zip)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
