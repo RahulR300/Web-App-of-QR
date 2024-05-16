@@ -6,7 +6,7 @@
 
 2 [nvm-setup.zip](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/files/15332576/nvm-setup.zip)
 
-# Clone this repo - open terminal - enter npm install (incase of 1st time) - enter npm start
+# Clone this repo - open terminal - npm install (incase of 1st time) - npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
