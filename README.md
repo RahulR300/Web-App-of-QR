@@ -74,4 +74,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# Student-monitoring
+# QR-Based Exit Management System
+
+# Web-App Snapshots:
+
+
+#                                                    WEB_APP LOGIN PAGE
+
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/9bc3daaa-b81d-41fd-b9b0-f4f681d83caf)
+
+
+#                                                    WEB-APP DASHBOARD
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/a3d719a7-4589-40eb-b457-9517e4a55851)
+
+
+#                                                    STUDENT QR-GENERATION
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/a402a648-1748-4384-947f-dc7090cb88cb)
+
+
+#                                                   STUDENT TABLE DETAILS
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/87ddd00c-343e-411b-9e33-cdd35fe88edb)
+
+
+#                                                   FACULTY QR-GENERATION 
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/4968a154-6316-4e42-a74f-56bfce4881e5)
+
+
+#                                                   FACULTY TABLE DETAILS
+![image](https://github.com/RahulR300/Web-App-of-QR-Based-Exit-Management-System/assets/121079276/6abb63e7-f22a-4c7e-84dd-8cbb453a8d12)
+
+
